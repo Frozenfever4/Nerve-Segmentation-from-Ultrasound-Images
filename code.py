@@ -1,4 +1,5 @@
-Dataset Code: https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=test
+Dataset Link: https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=test
+Code Explanation Link: https://drive.google.com/file/d/11rPqBtt3QhuaccUFgDK15n1hQRsiywK6/view?usp=sharing
 
 # RUN THIS CELL IN ORDER TO IMPORT YOUR KAGGLE DATA SOURCES.
 import kagglehub
